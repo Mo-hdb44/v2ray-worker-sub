@@ -1991,32 +1991,21 @@ var configProviders = [
 ];
 var ipProviderLink = "https://raw.githubusercontent.com/vfarid/cf-clean-ips/main/list.json";
 var addressList = [
-  "discord.com",
-  "cloudflare.com",
-  "nginx.com",
-  "www.speedtest.com",
-  "laravel.com",
-  "chat.openai.com",
-  "auth0.openai.com",
-  "codepen.io",
+  "softwaretestinghelp.com",
+  "iranserver.com",
+  "arabseed.ink",
+  "tjupt.org",
+  "numpy.org",
+  "quizlet.com",
+  "ips.cloudips.ir",
+  "i.ps.linkpc.net",
   "api.jquery.com"
 ];
 var fpList = [
-  "chrome",
-  "chrome",
-  "chrome",
-  "firefox",
-  "safari",
-  "edge",
-  "ios",
-  "android",
-  "random",
-  "random"
+  ""
 ];
 var alpnList = [
-  "http/1.1",
-  "h2,http/1.1",
-  "h2,http/1.1"
+  ""
 ];
 var operators = [];
 var cleanIPs = [];
