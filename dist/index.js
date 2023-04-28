@@ -1921,7 +1921,7 @@ var configProviders = [
     name: "mfuu",
     type: "b64",
     urls: [
-      "https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray"
+      "https://free.iam7.tk/trojan/sub"
     ]
   },
   {
@@ -1935,14 +1935,14 @@ var configProviders = [
     name: "ermaozi",
     type: "b64",
     urls: [
-      "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt"
+      "https://raw.githubusercontent.com/Mo-hdb44/fil/main/profiles_clash2.txt"
     ]
   },
   {
     name: "aiboboxx",
     type: "b64",
     urls: [
-      "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2"
+      "https://raw."
     ]
   },
   {
